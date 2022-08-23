@@ -9,6 +9,9 @@
 body{
     background-color: #FCEEC8;
 }
+.header{
+    padding-left: 20%;
+}
 .container{
     width: 90%;
     margin: auto;
@@ -42,8 +45,10 @@ body{
     text-align: center;
     color: black;
     position: fixed;
-    top: 100px;
+    top: 150px;
     right: 10px;
+    margin: 20px;
+    padding: 10px;
 }
 
 .right-content .img{
